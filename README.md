@@ -33,7 +33,7 @@
 
 ##  既知の問題点
 
-* 画面を回転させると情報が全て失われる。 (ViewModel の実装が未完了のため)
+* 画面を回転させると情報が全て失われる。 (ViewModel を使った実装ができていないため)
 
 
 
@@ -42,5 +42,3 @@
 * Android Studio
 * Kotlin
 * Material Theme Builder
-
-
